@@ -13,3 +13,6 @@ simple-restFul-api\
 │    └── verifyToken.js\
 ├─ app.js \
 └─ validation.js
+
+Based on:
+https://medium.com/swlh/how-to-build-simple-restful-api-with-nodejs-expressjs-and-mongodb-e59595091640
